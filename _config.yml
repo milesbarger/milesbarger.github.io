@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Miles Barger"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Miles Barger"
+description              : "Hi: I'm Miles."
+url                      : "https://milesbarger.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -55,18 +55,21 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "milesbarger"
 facebook:
-  username               :
+  username               : "milesbarger"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : "Person"
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - "https://twitter.com/milesbarger"
+    - "https://facebook.com/milesbarger"
+    - "https://instagram.com/milesbarger"
 
 # Analytics
 analytics:
@@ -77,22 +80,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Miles Barger"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I design and create cool things for myself and the National Park Service."
+  location         : "Estes Park, CO"
+  email            : "milesbarger@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "milesbarger"
   foursquare       :
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "milesbarger"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -100,7 +103,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "milesbarger"
   vine             :
   weibo            :
   xing             :
